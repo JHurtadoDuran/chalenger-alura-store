@@ -54,15 +54,3 @@ pip install pandas matplotlib seaborn numpy jupyter folium
 
 Este proyecto puede compartirse bajo **MIT License** (ajústalo según prefieras).
 
-## Contacto
-
-Para preguntas o mejoras, abre un issue o contacta al autor del repositorio.
-
----
-
-Si quieres, puedo:
-- Añadir un `requirements.txt` con versiones detectadas.
-- Incluir badges (build, license) en la parte superior.
-- Expandir la sección de reproducción con comandos específicos para Windows.
-
-¿Qué prefieres que haga a continuación?
