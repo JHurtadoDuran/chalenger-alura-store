@@ -1,0 +1,10 @@
+# Dependencias mínimas usadas en el notebook
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.12
+folium>=0.14  # opcional (mapas interactivos)
+jupyter
+ipython
+# Otras utilidades (opcional)
+# zipfile, textwrap son parte de la librería estándar
